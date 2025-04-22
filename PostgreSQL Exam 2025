@@ -1,3 +1,7 @@
+# Setting up a database for an online electronics store, containing information about brands, classifications, customers, items,
+# orders and reviews.
+
+
 CREATE TABLE brands(
     id INT GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
     name VARCHAR(50) NOT NULL UNIQUE
