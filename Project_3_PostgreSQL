@@ -1,5 +1,11 @@
+# The following project was my examination for the SoftUni course on PostgreSQL.
+
+
 # Setting up a database for an online electronics store, containing information about brands, classifications, customers, items,
 # orders and reviews.
+
+
+-------------------------------------------------------------------
 
 
 CREATE TABLE brands(
